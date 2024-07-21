@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gawrgauwu&label=Profile%20views&color=0e75b6&style=flat" alt="gawrgauwu" /> </p>
 
-- 🌱 I’m currently learning **AI/ML**
+- 🌱 I’m currently learning **AI/ML alongside UI/UX and Game Development**
 
-- 📫 How to reach me **gaurangacharekar10@gmail.com**
+- 📫 Reach me at **gaurangacharekar10@gmail.com**
 
-- ⚡ Fun fact **I love video games :)**
+- ⚡ **I love video games :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
