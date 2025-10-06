@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gawrgauwu&label=Profile%20views&color=0e75b6&style=flat" alt="gawrgauwu" /> </p>
 
-- 🌱 I’m currently learning **AI/ML alongside UI/UX and Game Development**
+- 🌱 I’m currently pursuing  **Master's in Data Science from Stony Brook University**
 
 - 📫 Reach me at **gaurangacharekar10@gmail.com**
 
