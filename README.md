@@ -16,10 +16,11 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px;">
 <div style="display: flex; flex-wrap: wrap; gap: 16px;">
+  
   <!-- Card 1 -->
   <a href="Google.pdf" target="_blank" style="text-decoration: none; color: inherit;">
     <div style="width: 260px; background: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
-      <img src="png/gcp-ace.png" alt="Google Cloud ACE" style="width: 100%; border-radius: 6px; margin-bottom: 8px;" />
+      <img src="png/Google.png" alt="Google Cloud ACE" style="width: 100%; border-radius: 6px; margin-bottom: 8px;" />
       <h3 style="margin: 4px 0 2px; font-size: 16px;">Google Cloud Associate Cloud Engineer</h3>
       <p style="margin: 0; font-size: 13px; color: #8b949e;">Cloud Infrastructure · Verified</p>
     </div>
