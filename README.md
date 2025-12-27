@@ -17,34 +17,61 @@
 <div style="display: flex; flex-wrap: wrap; gap: 16px;">
 <div style="display: flex; flex-wrap: wrap; gap: 16px;">
   
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
   <!-- Card 1 -->
   <a href="Google.pdf" target="_blank" style="text-decoration: none; color: inherit;">
-    <div style="width: 260px; background: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
-      <img src="png/Google.png" alt="Google Cloud ACE" style="width: 100%; border-radius: 6px; margin-bottom: 8px;" />
-      <h3 style="margin: 4px 0 2px; font-size: 16px;">Google Cloud Associate Cloud Engineer</h3>
-      <p style="margin: 0; font-size: 13px; color: #8b949e;">Cloud Infrastructure · Verified</p>
+    <div style="width: 200px; background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.3);">
+      <img src="png/Google.png" alt="Google Cloud ACE" style="width: 100%; border-radius: 4px; margin-bottom: 6px;" />
+      <h3 style="margin: 2px 0; font-size: 14px;">Google Cloud Associate Cloud Engineer</h3>
+      <p style="margin: 0; font-size: 12px; color: #8b949e;">Cloud Infrastructure · Verified</p>
     </div>
   </a>
 
   <!-- Card 2 -->
   <a href="Deloitte.pdf" target="_blank" style="text-decoration: none; color: inherit;">
-    <div style="width: 260px; background: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
-      <img src="png/Deloitte.png" alt="Deloitte Data Analytics" style="width: 100%; border-radius: 6px; margin-bottom: 8px;" />
-      <h3 style="margin: 4px 0 2px; font-size: 16px;">Deloitte Data Analytics Virtual Job Simulation</h3>
-      <p style="margin: 0; font-size: 13px; color: #8b949e;">Data Analytics · Verified</p>
+    <div style="width: 200px; background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.3);">
+      <img src="png/Deloitte.png" alt="Deloitte Data Analytics" style="width: 100%; border-radius: 4px; margin-bottom: 6px;" />
+      <h3 style="margin: 2px 0; font-size: 14px;">Deloitte Data Analytics Simulation</h3>
+      <p style="margin: 0; font-size: 12px; color: #8b949e;">Data Analytics · Verified</p>
+    </div>
+  </a>
+
+  <!-- Card 3 -->
+  <a href="Coursera BA and PM.pdf" target="_blank" style="text-decoration: none; color: inherit;">
+    <div style="width: 200px; background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.3);">
+      <img src="png/Coursera.png" alt="Coursera BA and PM" style="width: 100%; border-radius: 4px; margin-bottom: 6px;" />
+      <h3 style="margin: 2px 0; font-size: 14px;">Coursera Business Analytics & PM</h3>
+      <p style="margin: 0; font-size: 12px; color: #8b949e;">Professional Certificate · Verified</p>
+    </div>
+  </a>
+
+  <!-- Card 4 -->
+  <a href="British Airways.pdf" target="_blank" style="text-decoration: none; color: inherit;">
+    <div style="width: 200px; background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.3);">
+      <img src="png/British Airways.png" alt="British Airways" style="width: 100%; border-radius: 4px; margin-bottom: 6px;" />
+      <h3 style="margin: 2px 0; font-size: 14px;">British Airways Virtual Experience</h3>
+      <p style="margin: 0; font-size: 12px; color: #8b949e;">Customer Insight · Verified</p>
+    </div>
+  </a>
+
+  <!-- Card 5 -->
+  <a href="CISCO.pdf" target="_blank" style="text-decoration: none; color: inherit;">
+    <div style="width: 200px; background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.3);">
+      <img src="png/CISCO.png" alt="CISCO" style="width: 100%; border-radius: 4px; margin-bottom: 6px;" />
+      <h3 style="margin: 2px 0; font-size: 14px;">Cisco Cybersecurity Essentials</h3>
+      <p style="margin: 0; font-size: 12px; color: #8b949e;">Cybersecurity · Verified</p>
+    </div>
+  </a>
+
+  <!-- Card 6 -->
+  <a href="Microsoft.pdf" target="_blank" style="text-decoration: none; color: inherit;">
+    <div style="width: 200px; background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.3);">
+      <img src="png/Microsoft.png" alt="Microsoft" style="width: 100%; border-radius: 4px; margin-bottom: 6px;" />
+      <h3 style="margin: 2px 0; font-size: 14px;">Microsoft AI Fundamentals</h3>
+      <p style="margin: 0; font-size: 12px; color: #8b949e;">AI & ML · Verified</p>
     </div>
   </a>
 </div>
-<!-- Card 3 -->
-<a href="pdf/deloitte-cybersecurity.pdf" target="_blank" style="text-decoration: none; color: inherit;"><div style="width: 260px; background: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);"><img src="images/deloitte-cyber.png" alt="Deloitte Cybersecurity" style="width: 100%; border-radius: 6px; margin-bottom: 8px;" /><h3 style="margin: 4px 0 2px; font-size: 16px;">Deloitte Cybersecurity Virtual Job Simulation</h3><p style="margin: 0; font-size: 13px; color: #8b949e;">Cybersecurity · Verified</p></div></a>
-<!-- Card 4 -->
-<a href="pdf/british-airways-cx.pdf" target="_blank" style="text-decoration: none; color: inherit;"><div style="width: 260px; background: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);"><img src="images/ba-cx.png" alt="British Airways CX" style="width: 100%; border-radius: 6px; margin-bottom: 8px;" /><h3 style="margin: 4px 0 2px; font-size: 16px;">British Airways Customer Experience Simulation</h3><p style="margin: 0; font-size: 13px; color: #8b949e;">CX & Business · Verified</p></div></a>
-<!-- Card 5 -->
-<a href="pdf/cisco-data-science.pdf" target="_blank" style="text-decoration: none; color: inherit;"><div style="width: 260px; background: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);"><img src="images/cisco-ds.png" alt="Cisco Data Science" style="width: 100%; border-radius: 6px; margin-bottom: 8px;" /><h3 style="margin: 4px 0 2px; font-size: 16px;">Cisco Data Science Foundations</h3><p style="margin: 0; font-size: 13px; color: #8b949e;">Data Science · Verified</p></div></a>
-<!-- Card 6 -->
-<a href="pdf/coursera-ml.pdf" target="_blank" style="text-decoration: none; color: inherit;"><div style="width: 260px; background: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);"><img src="images/coursera-ml.png" alt="Coursera ML" style="width: 100%; border-radius: 6px; margin-bottom: 8px;" /><h3 style="margin: 4px 0 2px; font-size: 16px;">Machine Learning Specialization (Coursera)</h3><p style="margin: 0; font-size: 13px; color: #8b949e;">ML & AI · Verified</p></div></a>
-<!-- Card 7 -->
-<a href="pdf/career-readiness-ace.pdf" target="_blank" style="text-decoration: none; color: inherit;"><div style="width: 260px; background: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);"><img src="images/career-readiness.png" alt="Career Readiness ACE" style="width: 100%; border-radius: 6px; margin-bottom: 8px;" /><h3 style="margin: 4px 0 2px; font-size: 16px;">Career Readiness – Associate Cloud Engineer Path</h3><p style="margin: 0; font-size: 13px; color: #8b949e;">Cloud Learning Path · Verified</p></div></a>
 </div>
 
 
