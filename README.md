@@ -18,6 +18,7 @@
 <div style="display: flex; flex-wrap: wrap; gap: 16px;">
   
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
   <!-- Card 1 -->
   <a href="Google.pdf" target="_blank" style="text-decoration: none; color: inherit;">
     <div style="width: 200px; background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.3);">
@@ -71,6 +72,7 @@
       <p style="margin: 0; font-size: 12px; color: #8b949e;">AI & ML · Verified</p>
     </div>
   </a>
+</div>
 </div>
 </div>
 
