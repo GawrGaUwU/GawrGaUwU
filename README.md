@@ -6,7 +6,8 @@
 </p>
 
 - 🌱 I’m currently pursuing **Master's in Data Science from Stony Brook University**  
-- 📫 Reach me at **gaurangacharekar10@gmail.com**  
+- 📫 Reach me at **gaurangacharekar10@gmail.com**
+- 🌐 Portfolio: **https://v0-portfolio-for-data-analysis.vercel.app/**   
 - ⚡ **I love video games :)**
 
 <h3 align="left">Connect with me:</h3>
