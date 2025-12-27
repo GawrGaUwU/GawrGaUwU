@@ -23,50 +23,53 @@
 
 <!-- ================= CERTIFICATE GRID (3x2) ================= -->
 
-<table align="center">
+<table align="center" style="text-decoration:none; border-collapse:collapse;">
   <tr>
-    <td align="center">
-      <a href="Google.pdf" target="_blank">
+    <td align="center" style="padding:10px; text-decoration:none;">
+      <a href="png/Google.png" target="_blank" style="text-decoration:none; color:inherit;">
         <img src="png/Google.png" width="200" height="100" style="border-radius:6px; object-fit:cover;" /><br>
-        <sub>Google Cloud Associate Cloud Engineer</sub>
+        <sub style="text-decoration:none;">Google Cloud Associate Cloud Engineer</sub>
       </a>
     </td>
-    <td align="center">
-      <a href="Deloitte.pdf" target="_blank">
+
+    <td align="center" style="padding:10px; text-decoration:none;">
+      <a href="png/Deloitte.png" target="_blank" style="text-decoration:none; color:inherit;">
         <img src="png/Deloitte.png" width="200" height="100" style="border-radius:6px; object-fit:cover;" /><br>
-        <sub>Deloitte Data Analytics Simulation</sub>
+        <sub style="text-decoration:none;">Deloitte Data Analytics Simulation</sub>
       </a>
     </td>
-    <td align="center">
-      <a href="Coursera BA and PM.pdf" target="_blank">
+
+    <td align="center" style="padding:10px; text-decoration:none;">
+      <a href="png/Coursera.png" target="_blank" style="text-decoration:none; color:inherit;">
         <img src="png/Coursera.png" width="200" height="100" style="border-radius:6px; object-fit:cover;" /><br>
-        <sub>Coursera Business Analytics & PM</sub>
+        <sub style="text-decoration:none;">Coursera Business Analytics & PM</sub>
       </a>
     </td>
   </tr>
 
   <tr>
-    <td align="center">
-      <a href="British Airways.pdf" target="_blank">
+    <td align="center" style="padding:10px; text-decoration:none;">
+      <a href="png/British Airways.png" target="_blank" style="text-decoration:none; color:inherit;">
         <img src="png/British Airways.png" width="200" height="100" style="border-radius:6px; object-fit:cover;" /><br>
-        <sub>British Airways Virtual Experience</sub>
+        <sub style="text-decoration:none;">British Airways Virtual Experience</sub>
       </a>
     </td>
-    <td align="center">
-      <a href="CISCO.pdf" target="_blank">
+
+    <td align="center" style="padding:10px; text-decoration:none;">
+      <a href="png/CISCO.png" target="_blank" style="text-decoration:none; color:inherit;">
         <img src="png/CISCO.png" width="200" height="100" style="border-radius:6px; object-fit:cover;" /><br>
-        <sub>Cisco Cybersecurity Essentials</sub>
+        <sub style="text-decoration:none;">Cisco Cybersecurity Essentials</sub>
       </a>
     </td>
-    <td align="center">
-      <a href="Microsoft.pdf" target="_blank">
+
+    <td align="center" style="padding:10px; text-decoration:none;">
+      <a href="png/Microsoft.png" target="_blank" style="text-decoration:none; color:inherit;">
         <img src="png/Microsoft.png" width="200" height="100" style="border-radius:6px; object-fit:cover;" /><br>
-        <sub>Microsoft AI Fundamentals</sub>
+        <sub style="text-decoration:none;">Microsoft AI Fundamentals</sub>
       </a>
     </td>
   </tr>
 </table>
-
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
