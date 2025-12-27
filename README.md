@@ -14,13 +14,6 @@
 <a href="https://linkedin.com/in/gaurang-acharekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurang-acharekar" height="30" width="40" /></a>
 <a href="https://kaggle.com/gawrgauwu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gawrgauwu" height="30" width="40" /></a>
 
-<div style="display: flex; flex-wrap: wrap; gap: 16px;">
-<div style="display: flex; flex-wrap: wrap; gap: 16px;">
-  
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
- <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-
  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
 
   <!-- Card 1 -->
