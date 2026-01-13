@@ -22,7 +22,10 @@
 
 <p align="center">
   <a href="https://github.com/GawrGaUwU">
-    <img src="https://github-readme-stats.vercel.app/api?username=GawrGaUwU&show_icons=true&theme=radical" alt="Gaurang's GitHub stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GawrGaUwU&show_icons=true&theme=radical" alt="Gaurang's GitHub stats" />
+  </a>
+  <a href="https://github.com/GawrGaUwU">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GawrGaUwU&layout=compact&theme=radical" alt="Top Langs" />
   </a>
 </p>
 
