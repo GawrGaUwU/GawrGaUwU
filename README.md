@@ -20,6 +20,8 @@
   </a>
 </p>
 
+[![Gaurang's GitHub stats](https://github-readme-stats.vercel.app/api?username=GawrGaUwU)](https://github.com/GawrGaUwU/github-readme-stats)
+
 <br>
 
 <!-- ================= CERTIFICATE GRID (3x2) ================= -->
