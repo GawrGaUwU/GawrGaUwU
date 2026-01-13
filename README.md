@@ -115,3 +115,9 @@
     <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" width="40" height="40"/>
   </a>
 </p>
+
+- [**SQL 50: LeetCode Study Plan**](https://leetcode.com/u/YOUR_LEETCODE_USERNAME/) ![LeetCode](https://img.shields.io/badge/-LeetCode%20SQL%2050-FFA116?style=flat-square&logo=LeetCode&logoColor=white)
+  A collection of optimized solutions for the "SQL 50" study plan, covering fundamental to advanced SQL concepts.
+  * **Tech Stack:** SQL (MySQL / PostgreSQL).
+  * **Highlights:** Solved 50 curated problems involving Advanced Select and Joins, Aggregations, Subqueries, and Window Functions.
+  * **Outcome:** Mastered relational database querying and data manipulation techniques essential for data analysis.
