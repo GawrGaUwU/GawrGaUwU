@@ -20,7 +20,11 @@
   </a>
 </p>
 
-[![Gaurang's GitHub stats](https://github-readme-stats.vercel.app/api?username=GawrGaUwU)](https://github.com/GawrGaUwU/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/GawrGaUwU">
+    <img src="https://github-readme-stats.vercel.app/api?username=GawrGaUwU&show_icons=true&theme=radical" alt="Gaurang's GitHub stats" />
+  </a>
+</p>
 
 <br>
 
