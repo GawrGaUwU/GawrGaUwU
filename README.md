@@ -23,6 +23,7 @@
 
 <br>
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/d430cdc1-f744-4204-b993-0e1c7e1fb28a" title="Data Fundamentals"><img src="https://images.credly.com/size/80x80/images/edaf0f19-2df0-4759-8871-7b1b44687f53/image.png" alt="Data Fundamentals" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/ed8d0c21-881a-42b6-bc17-6e5a31f3fc30" title="Explore Emerging Tech"><img src="https://images.credly.com/size/80x80/images/c6f4a830-11d9-46ba-a061-8ac2e5a099e9/Explore_Emerging_Tech.png" alt="Explore Emerging Tech" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/13d98f80-4da0-41f7-96bc-a917b33c9405" title="Computer Hardware Basics"><img src="https://images.credly.com/size/80x80/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png" alt="Computer Hardware Basics" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/5009a993-b8f3-4101-8522-81c2399bed76" title="Introduction to Data Science"><img src="https://images.credly.com/size/80x80/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png" alt="Introduction to Data Science" width="80" height="80"></a>
